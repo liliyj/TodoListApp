@@ -21,7 +21,7 @@ A simple Todo List project where users can add, delete, and mark tasks as comple
    git clone https://github.com/liliyj/todo-list.git
    
 2. 🌐 Live Demo
-[Click here to view the live version](https://liliyj.github.io/Todolist.github.io/)
+[Click here to view the live version](https://liliyj.github.io/TodoListApp.github.io/)
 
 
 📬 Contact
