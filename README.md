@@ -18,7 +18,7 @@ A simple Todo List project where users can add, delete, and mark tasks as comple
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/liliyj/todo-list.git
+   git clone https://github.com/liliyj/TodoListApp.git
    
 2. 🌐 Live Demo
 [Click here to view the live version](https://liliyj.github.io/TodoListApp.github.io/)
