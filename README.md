@@ -20,7 +20,7 @@ A simple Todo List project where users can add, delete daily tasks.
    git clone https://github.com/liliyj/TodoListApp.git
    
 2. 🌐 Live Demo
-[Click here to view the live version](https://liliyj.github.io/TodoListApp.github.io/)
+[Click here to view the live version](https://liliyj.github.io/TodoListApp/)
 
 
 📬 Contact
