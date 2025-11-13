@@ -1,12 +1,11 @@
 # 📝 Todo List
 
-A simple Todo List project where users can add, delete, and mark tasks as completed.
+A simple Todo List project where users can add, delete daily tasks.
 
 ## 🚀 Features
 
 - Add new tasks
 - Delete tasks
-- Mark tasks as completed
 
 ## 🛠️ Built With
 
